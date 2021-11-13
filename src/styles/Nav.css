@@ -1,0 +1,42 @@
+.left {
+ display: flex;
+ align-items: flex-start;
+ flex-direction: row;
+
+}
+
+
+.sideNav {
+  height: 100%;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  transition: 0.5s ease;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  transform: rotate(90deg);
+  
+}
+
+
+
+a:link {
+    text-decoration: none;
+    color: white;
+  
+    
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color:rgb(161, 161, 161);
+  }
+  
+
+.nav-item {
+    color:white;
+    padding: 10%;
+   
+}
