@@ -1,15 +1,12 @@
 body {
   background-color: rgb(9, 8, 8);
   margin: 2%;
-  height: 100%;
   
 }
 
-.App {
-  height: 100%;
-}
 .renderPage {
   display: flex;
+  height: 100vh;
 }
 p {
   color: white;

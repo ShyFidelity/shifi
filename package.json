@@ -1,5 +1,6 @@
 {
   "name": "shifi",
+  "homepage": "https://shyfidelity.github.io/shyfi-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
