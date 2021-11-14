@@ -8,7 +8,7 @@ export default function Resume() {
       <h1>Resume</h1>
       <p class="title">Resume</p>
 
-      <a href={resumePDF} download="JKFResume.pdf"> Download </a>
+      <a href={resumePDF} download="JKFResume.pdf" > Download </a>
   </div>
   
   );
