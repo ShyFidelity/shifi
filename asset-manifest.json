@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/shifi/static/css/main.2d962408.chunk.css",
-    "main.js": "/shifi/static/js/main.a01a3f19.chunk.js",
-    "main.js.map": "/shifi/static/js/main.a01a3f19.chunk.js.map",
-    "runtime-main.js": "/shifi/static/js/runtime-main.4a88d677.js",
-    "runtime-main.js.map": "/shifi/static/js/runtime-main.4a88d677.js.map",
-    "static/js/2.b385f30c.chunk.js": "/shifi/static/js/2.b385f30c.chunk.js",
-    "static/js/2.b385f30c.chunk.js.map": "/shifi/static/js/2.b385f30c.chunk.js.map",
-    "static/js/3.eff1c084.chunk.js": "/shifi/static/js/3.eff1c084.chunk.js",
-    "static/js/3.eff1c084.chunk.js.map": "/shifi/static/js/3.eff1c084.chunk.js.map",
+    "main.css": "/shifi/static/css/main.a144d948.chunk.css",
+    "main.js": "/shifi/static/js/main.8e6566b8.chunk.js",
+    "main.js.map": "/shifi/static/js/main.8e6566b8.chunk.js.map",
+    "runtime-main.js": "/shifi/static/js/runtime-main.030bd420.js",
+    "runtime-main.js.map": "/shifi/static/js/runtime-main.030bd420.js.map",
+    "static/js/2.a7108926.chunk.js": "/shifi/static/js/2.a7108926.chunk.js",
+    "static/js/2.a7108926.chunk.js.map": "/shifi/static/js/2.a7108926.chunk.js.map",
+    "static/js/3.1417c39d.chunk.js": "/shifi/static/js/3.1417c39d.chunk.js",
+    "static/js/3.1417c39d.chunk.js.map": "/shifi/static/js/3.1417c39d.chunk.js.map",
     "index.html": "/shifi/index.html",
-    "static/css/main.2d962408.chunk.css.map": "/shifi/static/css/main.2d962408.chunk.css.map",
-    "static/js/2.b385f30c.chunk.js.LICENSE.txt": "/shifi/static/js/2.b385f30c.chunk.js.LICENSE.txt",
+    "static/css/main.a144d948.chunk.css.map": "/shifi/static/css/main.a144d948.chunk.css.map",
+    "static/js/2.a7108926.chunk.js.LICENSE.txt": "/shifi/static/js/2.a7108926.chunk.js.LICENSE.txt",
+    "static/media/JKFResume.c39985ef.pdf": "/shifi/static/media/JKFResume.c39985ef.pdf",
     "static/media/hold-my-breath-bambi.c063e07c.gif": "/shifi/static/media/hold-my-breath-bambi.c063e07c.gif",
-    "static/media/phoneafriendsmall.fa88a7f8.png": "/shifi/static/media/phoneafriendsmall.fa88a7f8.png"
+    "static/media/phoneafriendsmall.fa88a7f8.png": "/shifi/static/media/phoneafriendsmall.fa88a7f8.png",
+    "static/media/snakeBG.bcf54791.svg": "/shifi/static/media/snakeBG.bcf54791.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a88d677.js",
-    "static/js/2.b385f30c.chunk.js",
-    "static/css/main.2d962408.chunk.css",
-    "static/js/main.a01a3f19.chunk.js"
+    "static/js/runtime-main.030bd420.js",
+    "static/js/2.a7108926.chunk.js",
+    "static/css/main.a144d948.chunk.css",
+    "static/js/main.8e6566b8.chunk.js"
   ]
 }
