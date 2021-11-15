@@ -1,14 +1,14 @@
 .cardContainer {
     display: flex;
     flex-direction: row;
-    flex-direction: wrap;
+    flex-wrap: wrap;
     margin-top: 20vh;
  
 
 }
 
 .card {
-    background-color:transparent !important;
+    background-color: transparent !important;
     color: white !important;
     padding: 2%;
     margin: 3vh;
@@ -16,3 +16,7 @@
     border-top-left-radius: 30px !important;
 }
 
+.MuiCardContent-root {
+    color: white !important;
+    
+}
