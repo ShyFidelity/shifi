@@ -1,11 +1,13 @@
 import React from 'react';
 import '../styles/Nav.css'
+import Cloud from '../components/images/sidecloud.png'
 
 // Here we are using object destructuring assignment to pluck off our variables from the props object
 // We assign them to their own variable names
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <ul className="sideNav">
+      <li><img src= {Cloud}  alt="smiley" /></li>
       <li> <h2>"Shy Fidelity"</h2></li>
       <li className="nav-item">
         <a
