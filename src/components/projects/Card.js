@@ -5,13 +5,14 @@ import CardMedia from '@mui/material/CardMedia';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import '../../styles/portCard.css'
-import  CssBaseline from '@mui/material/CssBaseline';
+
+
+
 
 export default function Project(props) {
 
     return (
-        <div>
-    <CssBaseline/>        
+        <div>    
     <Card className="card" sx={{ maxWidth: 345 , maxHeight: 345}}>
     <CardMedia
         component="img"
