@@ -1,4 +1,3 @@
-import React from 'react';
 import bambi from '../images/hold-my-breath-bambi.gif'
 import React, { useState } from 'react';
 
