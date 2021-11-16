@@ -9,8 +9,8 @@
 
 .sideNav {
   height: 100vh;
-  width: max-content;
-  z-index: 1;
+  width: 40vh;
+  z-index: 0;
   top: 0;
   left: 0;
   transition: 0.5s ease;

@@ -25,12 +25,12 @@ export default function Project(props) {
         <Typography gutterBottom variant="h5" component="div">
           {props.title}
         </Typography>
-        <Typography variant="body2" color="primary">
+        <Typography variant="body2">
         {props.description}
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="small"> <a href= {props.link}> live </a></Button>
+        <Button size="small"> <a href={props.link}> live </a></Button>
         <Button size="small"> <a href={props.github}> <img src= {ghLogo} alt="gh logo" /> </a> </Button>
       </CardActions>
     </Card>

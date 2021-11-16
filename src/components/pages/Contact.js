@@ -1,9 +1,10 @@
 import React from "react";
 import contact from "../images/phoneafriendsmall.png";
+import '../../styles/About.css'
 
 export default function Contact() {
   return (
-    <div>
+    <div className="page">
       <h1>Contact Page</h1>
       <img src={contact} />
       <ul>
@@ -19,7 +20,7 @@ export default function Contact() {
         <li>
           <a href="mailto:shyfidelity100@gmail.com">shyfidelity100@gmail.com</a>
         </li>
-        <li>hi hi </li>
+       
       </ul>
   
       <div class="socialimages">
