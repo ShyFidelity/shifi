@@ -7,8 +7,8 @@ import Cloud from '../components/images/sidecloud.png'
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <ul className="sideNav">
-      <li><img src= {Cloud}  alt="smiley" /></li>
-      <li> <h2>"Shy Fidelity"</h2></li>
+      <img src= {Cloud}  alt="smiley" />
+       <h2>"Shy Fidelity"</h2>
       <li className="nav-item">
         <a
           href="#about"
