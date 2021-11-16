@@ -5,6 +5,7 @@ import CardMedia from '@mui/material/CardMedia';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import '../../styles/portCard.css'
+import ghLogo from '../images/ghlogosm.png'
 
 
 
@@ -13,10 +14,10 @@ export default function Project(props) {
 
     return (
         <div>    
-    <Card className="card" sx={{ maxWidth: 345 , maxHeight: 345}}>
+    <Card className="card" sx={{ width: 300 , height: 300}}>
     <CardMedia
-        component="img"
-        height="140"
+        component="img" 
+        height="150"
         image={props.img}
         alt={props.alt}
       />
@@ -29,8 +30,8 @@ export default function Project(props) {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="small">{props.link}</Button>
-        <Button size="small">{props.github}</Button>
+        <Button size="small"> <a href= {props.link}> live </a></Button>
+        <Button size="small"> <a href={props.github}> <img src= {ghLogo} alt="gh logo" /> </a> </Button>
       </CardActions>
     </Card>
 

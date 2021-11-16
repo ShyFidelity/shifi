@@ -6,7 +6,7 @@ import '../styles/Nav.css'
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <ul className="sideNav">
-      <h2>Shy Fidelity</h2>
+      <li> <h2>"Shy Fidelity"</h2></li>
       <li className="nav-item">
         <a
           href="#about"

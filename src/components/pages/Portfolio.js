@@ -12,8 +12,8 @@ const projects = [
     img: Snake, 
     alt: 'snake colorful graphic',
     description: 'mental health app',
-    // link: 'https://ouroboros-ml-jf-ni.herokuapp.com/',
-    // github: 'https://github.com/ShyFidelity/Ouroboros',
+    link: 'https://ouroboros-ml-jf-ni.herokuapp.com/',
+    github: 'https://github.com/ShyFidelity/Ouroboros',
     id: 1
   }, 
   {
@@ -21,10 +21,29 @@ const projects = [
     img: Weather, 
     alt: 'screenshot of weather app',
     description: 'weather app',
-    // link: 'https://ouroboros-ml-jf-ni.herokuapp.com/',
-    // github: 'https://github.com/ShyFidelity/Ouroboros',
-    id: 1
+    link: 'https://ouroboros-ml-jf-ni.herokuapp.com/',
+    github: 'https://github.com/ShyFidelity/Ouroboros',
+    id: 2
   }, 
+  {
+    title: 'What\'s the Weather', 
+    img: Weather, 
+    alt: 'screenshot of weather app',
+    description: 'weather app',
+    link: 'https://ouroboros-ml-jf-ni.herokuapp.com/',
+    github: 'https://github.com/ShyFidelity/Ouroboros',
+    id: 2
+  }, 
+  {
+    title: 'What\'s the Weather', 
+    img: Weather, 
+    alt: 'screenshot of weather app',
+    description: 'weather app',
+    link: 'https://ouroboros-ml-jf-ni.herokuapp.com/',
+    github: 'https://github.com/ShyFidelity/Ouroboros',
+    id: 2
+  }, 
+
 
 
 
@@ -34,7 +53,7 @@ export default function Portfolio() {
   return (
     <div className = "cardContainer">
       {projects.map((work) => (
-        <Project title={work.title} img={work.img} alt={work.alt} description={work.description} key={work.id} />
+        <Project title={work.title} img={work.img} alt={work.alt} description={work.description} link={work.link} github={work.github}key={work.id} />
       ))}
 
     </div>

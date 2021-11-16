@@ -1,6 +1,6 @@
 .left {
  display: flex;
- align-items: flex-start;
+ align-items:center;
  flex-direction: row;
  height: 100vh;
 
@@ -23,7 +23,21 @@
 }
 
 
+h2 {
+  font-family: Helvetica, sans-serif;
+  color: white;
+  padding: 1vh;
+ display: inline-block;
+}
 
+h1 {
+  
+    font-family: Helvetica, sans-serif;
+    color: white;
+    padding: 1vh;
+   display: inline-block;
+  
+}
 a:link {
     text-decoration: none;
     color: white;
@@ -42,4 +56,10 @@ a:link {
     color:white;
     padding: 5%;
    
+}
+
+.active {
+  font-style: bold;
+  font-size: larger;
+ 
 }

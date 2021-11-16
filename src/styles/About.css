@@ -1,3 +1,32 @@
 .greeting {
-    font-size: 64px;
+    font-size: 52px;
 }
+
+.page{
+    margin-top: 20vh;
+    margin-right: 10vh;
+   
+
+
+}
+
+body {
+    padding: 1vh;
+
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    color: white;
+    padding: 1vh;
+   display: inline-block;
+  }
+  
+  h1 {
+    
+      font-family: Helvetica, sans-serif;
+      color: white;
+      padding: 1vh;
+     display: inline-block;
+    
+  }
