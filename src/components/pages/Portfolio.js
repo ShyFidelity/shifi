@@ -52,6 +52,7 @@ const projects = [
 export default function Portfolio() {
   return (
     <div className="page">
+      <h2>Here's what you came for</h2>
     <div className = "cardContainer">
       {projects.map((work) => (
         <Project title={work.title} img={work.img} alt={work.alt} description={work.description} link={work.link} github={work.github}key={work.id} />
