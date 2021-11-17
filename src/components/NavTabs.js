@@ -1,13 +1,15 @@
 import React from 'react';
 import '../styles/Nav.css'
 import Cloud from '../components/images/sidecloud.png'
+import Cactus from '../components/images/cactus2.png'
 
 // Here we are using object destructuring assignment to pluck off our variables from the props object
 // We assign them to their own variable names
 function NavTabs({ currentPage, handlePageChange }) {
   return (
+    <div>
+      <img src={Cactus} width="200" height= "400" alt="" />
     <ul className="sideNav">
-      <img src= {Cloud}  alt="smiley" />
        <h2>"Shy Fidelity"</h2>
       <li className="nav-item">
         <a
@@ -50,6 +52,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         </a>
       </li>
     </ul>
+    </div>
   );
 }
 
