@@ -1,6 +1,10 @@
 body {
-  background-color: rgb(9, 8, 8);
+  background-image: url('../src/components/images/callnowbg.png');
   margin: 2%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   
 }
 
