@@ -12,7 +12,7 @@ export default function Resume() {
       <a href={resumePDF} download="JKFResume.pdf" > Download </a>
 
       <img src={ Unicorn } alt="" />
-      <p>1 OF a kINd babY</p>
+  
   </div>
   
   );
