@@ -1,26 +1,31 @@
 {
   "files": {
-    "main.css": "/shifi/static/css/main.a144d948.chunk.css",
-    "main.js": "/shifi/static/js/main.8e6566b8.chunk.js",
-    "main.js.map": "/shifi/static/js/main.8e6566b8.chunk.js.map",
-    "runtime-main.js": "/shifi/static/js/runtime-main.030bd420.js",
-    "runtime-main.js.map": "/shifi/static/js/runtime-main.030bd420.js.map",
-    "static/js/2.a7108926.chunk.js": "/shifi/static/js/2.a7108926.chunk.js",
-    "static/js/2.a7108926.chunk.js.map": "/shifi/static/js/2.a7108926.chunk.js.map",
-    "static/js/3.1417c39d.chunk.js": "/shifi/static/js/3.1417c39d.chunk.js",
-    "static/js/3.1417c39d.chunk.js.map": "/shifi/static/js/3.1417c39d.chunk.js.map",
+    "main.css": "/shifi/static/css/main.47b0cc84.chunk.css",
+    "main.js": "/shifi/static/js/main.03e093fe.chunk.js",
+    "main.js.map": "/shifi/static/js/main.03e093fe.chunk.js.map",
+    "runtime-main.js": "/shifi/static/js/runtime-main.20c8f4cc.js",
+    "runtime-main.js.map": "/shifi/static/js/runtime-main.20c8f4cc.js.map",
+    "static/js/2.79b0f687.chunk.js": "/shifi/static/js/2.79b0f687.chunk.js",
+    "static/js/2.79b0f687.chunk.js.map": "/shifi/static/js/2.79b0f687.chunk.js.map",
+    "static/js/3.b959b7f4.chunk.js": "/shifi/static/js/3.b959b7f4.chunk.js",
+    "static/js/3.b959b7f4.chunk.js.map": "/shifi/static/js/3.b959b7f4.chunk.js.map",
     "index.html": "/shifi/index.html",
-    "static/css/main.a144d948.chunk.css.map": "/shifi/static/css/main.a144d948.chunk.css.map",
-    "static/js/2.a7108926.chunk.js.LICENSE.txt": "/shifi/static/js/2.a7108926.chunk.js.LICENSE.txt",
+    "static/css/main.47b0cc84.chunk.css.map": "/shifi/static/css/main.47b0cc84.chunk.css.map",
+    "static/js/2.79b0f687.chunk.js.LICENSE.txt": "/shifi/static/js/2.79b0f687.chunk.js.LICENSE.txt",
+    "static/media/footer.css": "/shifi/static/media/90sbanner.f2877525.png",
     "static/media/JKFResume.c39985ef.pdf": "/shifi/static/media/JKFResume.c39985ef.pdf",
+    "static/media/cactus2.580e750e.png": "/shifi/static/media/cactus2.580e750e.png",
+    "static/media/App.css": "/shifi/static/media/callnowbg.25995811.png",
+    "static/media/diamond.e1ce4e1e.gif": "/shifi/static/media/diamond.e1ce4e1e.gif",
     "static/media/hold-my-breath-bambi.c063e07c.gif": "/shifi/static/media/hold-my-breath-bambi.c063e07c.gif",
     "static/media/phoneafriendsmall.fa88a7f8.png": "/shifi/static/media/phoneafriendsmall.fa88a7f8.png",
-    "static/media/snakeBG.bcf54791.svg": "/shifi/static/media/snakeBG.bcf54791.svg"
+    "static/media/snakeBG.666a027c.svg": "/shifi/static/media/snakeBG.666a027c.svg",
+    "static/media/weatherSS.06f4630a.png": "/shifi/static/media/weatherSS.06f4630a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.030bd420.js",
-    "static/js/2.a7108926.chunk.js",
-    "static/css/main.a144d948.chunk.css",
-    "static/js/main.8e6566b8.chunk.js"
+    "static/js/runtime-main.20c8f4cc.js",
+    "static/js/2.79b0f687.chunk.js",
+    "static/css/main.47b0cc84.chunk.css",
+    "static/js/main.03e093fe.chunk.js"
   ]
 }
