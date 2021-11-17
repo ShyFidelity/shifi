@@ -1,16 +1,26 @@
 import React from 'react';
 import '../styles/Nav.css'
-import Cloud from '../components/images/sidecloud.png'
+
 import Cactus from '../components/images/cactus2.png'
 
 // Here we are using object destructuring assignment to pluck off our variables from the props object
 // We assign them to their own variable names
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <div>
+    <div className="navAll">
       <img src={Cactus} width="200" height= "400" alt="" />
     <ul className="sideNav">
        <h2>"Shy Fidelity"</h2>
+       <li className="nav-item">
+        <a
+          href="#home"
+          onClick={() => handlePageChange('Home')}
+          // Check to see if the currentPage is `Contact`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
+          className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
+        >
+          HOME
+        </a>
+      </li>
       <li className="nav-item">
         <a
           href="#about"
