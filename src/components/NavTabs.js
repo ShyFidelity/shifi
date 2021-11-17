@@ -8,9 +8,9 @@ import Cactus from '../components/images/cactus2.png'
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <div className="navAll">
-      <img src={Cactus} width="200" height= "400" alt="" />
     <ul className="sideNav">
-       <h2>"Shy Fidelity"</h2>
+        <li>      <img className="cactus" src={Cactus} width="150" height= "300" alt="" /></li>
+       <li><h2>"Shy Fidelity"</h2></li>
        <li className="nav-item">
         <a
           href="#home"

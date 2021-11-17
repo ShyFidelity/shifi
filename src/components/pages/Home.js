@@ -1,21 +1,25 @@
 import bambi from '../images/hold-my-breath-bambi.gif'
 import React, { useState } from 'react';
-import '../../styles/About.css'
+import '../../styles/Home.css'
 import Diamond from '../images/diamond.gif'
 
 export default function Home() {
 
-  const [greeting, setGreeting] = useState("home page")
   return (
     <div className="page">
-      <h1 className="greeting" onClick={() => setGreeting("have a look at the portfolio page")}>{greeting}</h1>
-    <div>
+      <h1>shyfidelity.online</h1>
      
-     <img src={ Diamond } alt="" />
+     <img className="diamond" src={ Diamond } alt="" />
      
-      </div>
+<div>
+<img src={bambi} alt="" />
+<p>"it's so good this product has done for me what none could ever"</p>
+</div>
+    
 
       </div>
+
+      
     
   );
 }
