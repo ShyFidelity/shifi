@@ -41,6 +41,11 @@ h1 {
    display: inline-block;
   
 }
+
+a {
+  font-size: large;
+}
+
 a:link {
     text-decoration: none;
     color: white;
@@ -50,11 +55,13 @@ a:link {
   
   a:visited {
     text-decoration: none;
-    color:rgb(161, 161, 161);
+    color:rgb(223, 223, 223);
   }
   
 
 .nav-item {
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
     list-style: none;
     color:white;
     padding: 5%;
