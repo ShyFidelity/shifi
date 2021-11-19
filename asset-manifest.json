@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/shifi/static/css/main.47b0cc84.chunk.css",
-    "main.js": "/shifi/static/js/main.03e093fe.chunk.js",
-    "main.js.map": "/shifi/static/js/main.03e093fe.chunk.js.map",
-    "runtime-main.js": "/shifi/static/js/runtime-main.20c8f4cc.js",
-    "runtime-main.js.map": "/shifi/static/js/runtime-main.20c8f4cc.js.map",
-    "static/js/2.79b0f687.chunk.js": "/shifi/static/js/2.79b0f687.chunk.js",
-    "static/js/2.79b0f687.chunk.js.map": "/shifi/static/js/2.79b0f687.chunk.js.map",
-    "static/js/3.b959b7f4.chunk.js": "/shifi/static/js/3.b959b7f4.chunk.js",
-    "static/js/3.b959b7f4.chunk.js.map": "/shifi/static/js/3.b959b7f4.chunk.js.map",
+    "main.css": "/shifi/static/css/main.afec830d.chunk.css",
+    "main.js": "/shifi/static/js/main.fffe383a.chunk.js",
+    "main.js.map": "/shifi/static/js/main.fffe383a.chunk.js.map",
+    "runtime-main.js": "/shifi/static/js/runtime-main.51a44e58.js",
+    "runtime-main.js.map": "/shifi/static/js/runtime-main.51a44e58.js.map",
+    "static/js/2.1bbf71a6.chunk.js": "/shifi/static/js/2.1bbf71a6.chunk.js",
+    "static/js/2.1bbf71a6.chunk.js.map": "/shifi/static/js/2.1bbf71a6.chunk.js.map",
+    "static/js/3.eabef308.chunk.js": "/shifi/static/js/3.eabef308.chunk.js",
+    "static/js/3.eabef308.chunk.js.map": "/shifi/static/js/3.eabef308.chunk.js.map",
     "index.html": "/shifi/index.html",
-    "static/css/main.47b0cc84.chunk.css.map": "/shifi/static/css/main.47b0cc84.chunk.css.map",
-    "static/js/2.79b0f687.chunk.js.LICENSE.txt": "/shifi/static/js/2.79b0f687.chunk.js.LICENSE.txt",
+    "static/css/main.afec830d.chunk.css.map": "/shifi/static/css/main.afec830d.chunk.css.map",
+    "static/js/2.1bbf71a6.chunk.js.LICENSE.txt": "/shifi/static/js/2.1bbf71a6.chunk.js.LICENSE.txt",
     "static/media/footer.css": "/shifi/static/media/90sbanner.f2877525.png",
     "static/media/JKFResume.c39985ef.pdf": "/shifi/static/media/JKFResume.c39985ef.pdf",
     "static/media/cactus2.580e750e.png": "/shifi/static/media/cactus2.580e750e.png",
@@ -23,9 +23,9 @@
     "static/media/weatherSS.06f4630a.png": "/shifi/static/media/weatherSS.06f4630a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.20c8f4cc.js",
-    "static/js/2.79b0f687.chunk.js",
-    "static/css/main.47b0cc84.chunk.css",
-    "static/js/main.03e093fe.chunk.js"
+    "static/js/runtime-main.51a44e58.js",
+    "static/js/2.1bbf71a6.chunk.js",
+    "static/css/main.afec830d.chunk.css",
+    "static/js/main.fffe383a.chunk.js"
   ]
 }
