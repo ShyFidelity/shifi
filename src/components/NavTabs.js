@@ -9,7 +9,6 @@ function NavTabs({ currentPage, handlePageChange }) {
   return (
     <div className="navAll">
     <ul className="sideNav">
-        <li>      <img className="cactus" src={Cactus} width="150" height= "300" alt="" /></li>
        <li><h2>"Shy Fidelity"</h2></li>
        <li className="nav-item">
         <a
