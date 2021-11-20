@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/shifi/static/css/main.71d553d8.chunk.css",
-    "main.js": "/shifi/static/js/main.b8a7742e.chunk.js",
-    "main.js.map": "/shifi/static/js/main.b8a7742e.chunk.js.map",
+    "main.css": "/shifi/static/css/main.6b2ad9d0.chunk.css",
+    "main.js": "/shifi/static/js/main.caad63a1.chunk.js",
+    "main.js.map": "/shifi/static/js/main.caad63a1.chunk.js.map",
     "runtime-main.js": "/shifi/static/js/runtime-main.51a44e58.js",
     "runtime-main.js.map": "/shifi/static/js/runtime-main.51a44e58.js.map",
     "static/js/2.1bbf71a6.chunk.js": "/shifi/static/js/2.1bbf71a6.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.eabef308.chunk.js": "/shifi/static/js/3.eabef308.chunk.js",
     "static/js/3.eabef308.chunk.js.map": "/shifi/static/js/3.eabef308.chunk.js.map",
     "index.html": "/shifi/index.html",
-    "static/css/main.71d553d8.chunk.css.map": "/shifi/static/css/main.71d553d8.chunk.css.map",
+    "static/css/main.6b2ad9d0.chunk.css.map": "/shifi/static/css/main.6b2ad9d0.chunk.css.map",
     "static/js/2.1bbf71a6.chunk.js.LICENSE.txt": "/shifi/static/js/2.1bbf71a6.chunk.js.LICENSE.txt",
     "static/media/footer.css": "/shifi/static/media/90sbanner.f2877525.png",
     "static/media/Ee.8f14f325.png": "/shifi/static/media/Ee.8f14f325.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.51a44e58.js",
     "static/js/2.1bbf71a6.chunk.js",
-    "static/css/main.71d553d8.chunk.css",
-    "static/js/main.b8a7742e.chunk.js"
+    "static/css/main.6b2ad9d0.chunk.css",
+    "static/js/main.caad63a1.chunk.js"
   ]
 }
