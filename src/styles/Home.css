@@ -8,6 +8,11 @@
    
 }
 
+.reviews {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 
 .diamond {
     margin-bottom: 4vh;

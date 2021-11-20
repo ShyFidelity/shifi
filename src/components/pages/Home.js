@@ -11,9 +11,14 @@ export default function Home() {
      
      <img className="diamond" src={ Diamond } alt="" />
      
-<div>
+<div className="reviews">
 <img src={bambi} alt="" />
-<p>"it's so good this product has done for me what none could ever"</p>
+<ul>
+  <li>"this web dev is so good my whole life has changed!"</li>
+  <li>"before finding shifidelity.online life was... so ordinary"</li>
+  <li>"bleak... yep that's the best way i could describe my website before now"</li>
+</ul>
+
 </div>
     
 
