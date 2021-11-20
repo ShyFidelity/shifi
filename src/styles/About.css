@@ -10,12 +10,13 @@
 
 
 }
+.definition {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
 
-body {
-    padding: 1vh;
-
+    
 }
-
 h2 {
     font-family: Helvetica, sans-serif;
     color: white;
