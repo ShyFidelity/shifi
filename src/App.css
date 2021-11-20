@@ -1,15 +1,14 @@
 .App {
   background-image: url('../src/components/images/callnowbg.png');
-  background-repeat:repeat;
+  background-repeat:no-repeat;
   background-position: center;
   background-size: cover;
-  min-width: 100vh;
-  min-height: 100vh;
+  
   
 }
 .renderPage {
   display: flex;
-  height: 100vh;
+
 }
 
 .cactusDiv {
