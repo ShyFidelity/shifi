@@ -3,6 +3,8 @@ import '../../styles/portCard.css'
 import Snake from '../images/snakeBG.svg'
 import Project from '../projects/Card'
 import Weather from '../images/weatherSS.png';
+import TechBlog from '../images/techblogss.png'
+import EE from '../images/Ee.png'
 import '../../styles/Portfolio.css'
 
 
@@ -27,21 +29,21 @@ const projects = [
     id: 2
   }, 
   {
-    title: 'What\'s the Weather', 
-    img: Weather, 
+    title: 'Eternal External', 
+    img: EE, 
     alt: 'screenshot of weather app',
-    description: 'weather app',
-    link: 'https://ouroboros-ml-jf-ni.herokuapp.com/',
-    github: 'https://github.com/ShyFidelity/Ouroboros',
-    id: 2
+    description: 'a humorous app that allows you to communicate with dead friends and relatives',
+    link: "https://dmosca2021.github.io/Eternal_External/",
+    github: 'https://github.com/DMosca2021/Eternal_External',
+    id: 3
   }, 
   {
-    title: 'What\'s the Weather', 
-    img: Weather, 
+    title: 'Tech Blog', 
+    img: TechBlog, 
     alt: 'screenshot of weather app',
-    description: 'weather app',
-    link: 'https://ouroboros-ml-jf-ni.herokuapp.com/',
-    github: 'https://github.com/ShyFidelity/Ouroboros',
+    description: 'Tech Blog',
+    link: 'https://safe-waters-86738.herokuapp.com/',
+    github: 'https://github.com/ShyFidelity/MVC-blog',
     id: 2
   }, 
 
