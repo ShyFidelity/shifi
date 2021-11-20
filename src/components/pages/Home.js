@@ -12,7 +12,7 @@ export default function Home() {
      <img className="diamond" src={ Diamond } alt="" />
      
 <div className="reviews">
-<img src={bambi} alt="" />
+<img src={bambi} width="150" margin="2vh" alt="bambi gasping in awe" />
 <ul>
   <li>"this web dev is so good my whole life has changed!"</li>
   <li>"before finding shifidelity.online life was... so ordinary"</li>
