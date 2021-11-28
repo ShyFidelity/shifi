@@ -37,7 +37,7 @@ export default function PortfolioContainer() {
       <div className="cactusDiv"><img className="cactus" src={Cactus} width="150" height= "300" alt="" /></div>
 
       <NavTabs  currentPage={currentPage} handlePageChange={handlePageChange} />
-      <Footer />
+      <Footer position="fixed" />
       </div>
       {/* Here we are calling the renderPage method which will return a component  */}
       {renderPage()}
