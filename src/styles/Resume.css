@@ -1,0 +1,12 @@
+.resumePage {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+
+    margin-top: 20vh;
+    margin-left: 15vw;
+}
+
+.images {
+    margin: 2vh;
+}

@@ -6,6 +6,22 @@
     margin-top: 10vh;
     margin-right: 10vh;
     z-index: 2;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    margin:8vw;
    
 
+}
+
+.contactForm {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.phone {
+    display: flex;
+    justify-content: right;
 }

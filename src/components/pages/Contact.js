@@ -39,9 +39,9 @@ export default function Contact() {
   return (
     <div className="page">
       <h1>Contact Page</h1>
-      <img src={contact}  width="150" height= "300" alt="hand holding phone"/>
+      
       <Box
-        className="contactForm"  
+        
         component="form"
           sx={{
             '& .MuiTextField-root': { m: 1, width: '25ch' },
@@ -50,7 +50,8 @@ export default function Contact() {
           autoComplete="off"
         >
   
-          <div>
+          <div className="contactForm">
+          <img className="phone" src={contact}  width="150" height= "260" alt="hand holding phone"/>
             <TextField
               required
               id="filled-required"
@@ -101,11 +102,8 @@ export default function Contact() {
           </a>
        
           <a href="mailto:shyfidelity100@gmail.com">shyfidelity100@gmail.com</a>
-      <div class="socialimages">
-       <a href= "https://www.linkedin.com/in/jillianfitzmaurice100/" target="_blank">link</a> 
-       <a href = "https://www.instagram.com/jilliankayworks/" target="_blank">insta</a> 
-       <a href="https://github.com/shyfidelity" target= "_blank">gh</a>
-      </div>
+   
+   
     
 
     </div>

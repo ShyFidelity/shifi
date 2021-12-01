@@ -1,7 +1,16 @@
 .page{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
     margin-top: 10vh;
-    margin-right: 10vh;
+
     z-index: 2;
    
 
+}
+
+.cardContainer {
+
+    margin-right: 8vw;
 }
