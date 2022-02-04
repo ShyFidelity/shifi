@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/shifi/static/css/main.6e33141a.chunk.css",
-    "main.js": "/shifi/static/js/main.a31be1fe.chunk.js",
-    "main.js.map": "/shifi/static/js/main.a31be1fe.chunk.js.map",
-    "runtime-main.js": "/shifi/static/js/runtime-main.51a44e58.js",
-    "runtime-main.js.map": "/shifi/static/js/runtime-main.51a44e58.js.map",
-    "static/js/2.1bbf71a6.chunk.js": "/shifi/static/js/2.1bbf71a6.chunk.js",
-    "static/js/2.1bbf71a6.chunk.js.map": "/shifi/static/js/2.1bbf71a6.chunk.js.map",
-    "static/js/3.eabef308.chunk.js": "/shifi/static/js/3.eabef308.chunk.js",
-    "static/js/3.eabef308.chunk.js.map": "/shifi/static/js/3.eabef308.chunk.js.map",
+    "main.css": "/shifi/static/css/main.ebce19f1.chunk.css",
+    "main.js": "/shifi/static/js/main.7423261d.chunk.js",
+    "main.js.map": "/shifi/static/js/main.7423261d.chunk.js.map",
+    "runtime-main.js": "/shifi/static/js/runtime-main.5c7b7818.js",
+    "runtime-main.js.map": "/shifi/static/js/runtime-main.5c7b7818.js.map",
+    "static/js/2.8c29efc4.chunk.js": "/shifi/static/js/2.8c29efc4.chunk.js",
+    "static/js/2.8c29efc4.chunk.js.map": "/shifi/static/js/2.8c29efc4.chunk.js.map",
+    "static/js/3.5330ea77.chunk.js": "/shifi/static/js/3.5330ea77.chunk.js",
+    "static/js/3.5330ea77.chunk.js.map": "/shifi/static/js/3.5330ea77.chunk.js.map",
     "index.html": "/shifi/index.html",
-    "static/css/main.6e33141a.chunk.css.map": "/shifi/static/css/main.6e33141a.chunk.css.map",
-    "static/js/2.1bbf71a6.chunk.js.LICENSE.txt": "/shifi/static/js/2.1bbf71a6.chunk.js.LICENSE.txt",
+    "static/css/main.ebce19f1.chunk.css.map": "/shifi/static/css/main.ebce19f1.chunk.css.map",
+    "static/js/2.8c29efc4.chunk.js.LICENSE.txt": "/shifi/static/js/2.8c29efc4.chunk.js.LICENSE.txt",
     "static/media/footer.css": "/shifi/static/media/90sbanner.f2877525.png",
     "static/media/Ee.8f14f325.png": "/shifi/static/media/Ee.8f14f325.png",
     "static/media/JKFResume.c39985ef.pdf": "/shifi/static/media/JKFResume.c39985ef.pdf",
@@ -20,14 +20,15 @@
     "static/media/diamond.e1ce4e1e.gif": "/shifi/static/media/diamond.e1ce4e1e.gif",
     "static/media/hold-my-breath-bambi.c063e07c.gif": "/shifi/static/media/hold-my-breath-bambi.c063e07c.gif",
     "static/media/phoneafriendsmall.fa88a7f8.png": "/shifi/static/media/phoneafriendsmall.fa88a7f8.png",
+    "static/media/profpicsmall.d229fd4f.jpg": "/shifi/static/media/profpicsmall.d229fd4f.jpg",
     "static/media/snakeBG.666a027c.svg": "/shifi/static/media/snakeBG.666a027c.svg",
     "static/media/techblogss.a68c2245.png": "/shifi/static/media/techblogss.a68c2245.png",
     "static/media/weatherSS.06f4630a.png": "/shifi/static/media/weatherSS.06f4630a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.51a44e58.js",
-    "static/js/2.1bbf71a6.chunk.js",
-    "static/css/main.6e33141a.chunk.css",
-    "static/js/main.a31be1fe.chunk.js"
+    "static/js/runtime-main.5c7b7818.js",
+    "static/js/2.8c29efc4.chunk.js",
+    "static/css/main.ebce19f1.chunk.css",
+    "static/js/main.7423261d.chunk.js"
   ]
 }
