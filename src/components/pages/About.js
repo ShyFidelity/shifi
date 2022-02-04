@@ -33,7 +33,7 @@ export default function About() {
         href="tel:3035043536"
         onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});"
       >
-       <button style={buttonStyle}>303-504-3536</button> </a>
+       <button>303-504-3536</button> </a>
      <p>fitzmauricejillian@gmail.com </p> 
       </div>
     
