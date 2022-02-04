@@ -28,7 +28,13 @@ export default function About() {
       <p className="about">
       Jillian Kay FitzMaurice is a Full Stack Web Developer with a background in fine art. Recent graduate of Denver University’s Full Stack Web Development currently pursuing AWS Cloud certification. Dedicated to finding the similarities in art and tech in with abstract and conceptual thinking. Excels at working with teams to creatively solve problems with an openness to new solutions and a wide spectrum of voices. A firm believer that morale and integrity are necessary in keeping any good team both light and on task. Merging the the worlds of tech and finding the <strong>poetry</strong> in <strong>code</strong>. 
       </p>
-      
+      {" "}
+      <a
+        href="tel:3035043536"
+        onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});"
+      >
+       <button style={buttonStyle}>303-504-3536</button> </a>
+     <p>fitzmauricejillian@gmail.com </p> 
       </div>
     
   );
